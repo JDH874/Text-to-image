@@ -5,6 +5,7 @@ SAW-GAN: Multi-Granularity Text Fusion Generative Adversarial Networks for Text-
 - python 3.9
 - pytorch 1.9
 - Install [CLIP](https://github.com/openai/CLIP)
+  
 In addition, please add the project folder to PYTHONPATH and `pip install` the following packages:
 - `python-dateutil`
 - `easydict`
