@@ -1,4 +1,4 @@
-# Text-to-image
+# SAW-GAN
 SAW-GAN: Multi-Granularity Text Fusion Generative Adversarial Networks for Text-to-Image Generation
 
 # Dependencies
