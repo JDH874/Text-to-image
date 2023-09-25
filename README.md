@@ -23,7 +23,7 @@ In addition, please add the project folder to PYTHONPATH and `pip install` the f
   ```
   cd SAW-GAN/code/
   ```
-- Train DAE-GAN models:
+- Train SAW-GAN model:
   - For bird dataset: `bash scripts/train.sh ./cfg/bird.yml`
   - For coco dataset: `bash scripts/train.sh ./cfg/coco.yml`
 
